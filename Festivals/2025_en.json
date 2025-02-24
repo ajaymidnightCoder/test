@@ -1,238 +1,236 @@
-{
-  "festivals": [
-    {
-      "festival_name": "Makar Sankranti",
-      "date": "2025-01-14",
-      "description": "Marks the transition of the Sun into Capricorn, celebrated with kite flying, sesame sweets, and holy dips.",
-      "celebrations": [
-        {
-          "name": "Kite Flying",
-          "details": "People fly kites, symbolizing the ascent of the sun."
-        },
-        {
-          "name": "Holy Dip",
-          "details": "Pilgrims take a dip in holy rivers for purification."
-        }
-      ],
-      "deity": "Surya (Sun God)",
-      "historical_significance": [
-        {
-          "story": "Sun's transition to Capricorn",
-          "details": "Marks the beginning of longer days as per Hindu astronomy."
-        }
-      ],
-      "related_festivals": [ "Pongal", "Uttarayan", "Lohri" ]
-    },
-    {
-      "festival_name": "Vasant Panchami",
-      "date": "2025-02-02",
-      "description": "Celebration of Goddess Saraswati, the goddess of wisdom, learning, and arts.",
-      "celebrations": [
-        {
-          "name": "Saraswati Puja",
-          "details": "Students and artists worship Goddess Saraswati for knowledge and wisdom."
-        },
-        {
-          "name": "Wearing Yellow",
-          "details": "People wear yellow clothes, symbolizing prosperity and energy."
-        }
-      ],
-      "deity": "Saraswati",
-      "historical_significance": [
-        {
-          "story": "Goddess Saraswati’s Blessings",
-          "details": "Honors the goddess who grants wisdom and learning."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Maha Shivaratri",
-      "date": "2025-02-26",
-      "description": "Dedicated to Lord Shiva, observed with fasting, night-long prayers, and chanting.",
-      "celebrations": [
-        {
-          "name": "Shiva Abhishek",
-          "details": "Devotees perform milk, honey, and water offerings to Shiva Lingam."
-        },
-        {
-          "name": "Night Vigil",
-          "details": "Devotees stay awake all night chanting mantras."
-        }
-      ],
-      "deity": "Shiva",
-      "historical_significance": [
-        {
-          "story": "Shiva and Parvati’s union",
-          "details": "This day marks the divine wedding of Shiva and Parvati."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Holi",
-      "date": "2025-03-14",
-      "description": "Festival of colors celebrating the victory of good over evil, marking the arrival of spring.",
-      "celebrations": [
-        {
-          "name": "Color Throwing",
-          "details": "People throw colored powders and water at each other in celebration."
-        },
-        {
-          "name": "Bonfires",
-          "details": "Holika Dahan (bonfire) is lit to symbolize the victory over evil."
-        }
-      ],
-      "deity": "Krishna, Vishnu",
-      "historical_significance": [
-        {
-          "story": "Holika and Prahlad",
-          "details": "Symbolizes the burning of Holika and the protection of devotee Prahlad by Lord Vishnu."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Rama Navami",
-      "date": "2025-04-06",
-      "description": "Celebrates the birth of Lord Rama, observed with prayers and readings from the Ramayana.",
-      "celebrations": [
-        {
-          "name": "Ramayana Recitations",
-          "details": "Devotees read and listen to the Ramayana."
-        },
-        {
-          "name": "Temple Processions",
-          "details": "Idols of Lord Rama are taken on processions."
-        }
-      ],
-      "deity": "Rama",
-      "historical_significance": [
-        {
-          "story": "Birth of Lord Rama",
-          "details": "Marks the birth of Lord Rama, the seventh incarnation of Vishnu."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Hanuman Jayanti",
-      "date": "2025-04-14",
-      "description": "Commemorates the birth of Lord Hanuman, the ardent devotee of Lord Rama.",
-      "celebrations": [
-        {
-          "name": "Hanuman Chalisa Recitation",
-          "details": "Devotees chant Hanuman Chalisa for blessings."
-        },
-        {
-          "name": "Prayers and Offerings",
-          "details": "Special offerings of sweets and flowers at temples."
-        }
-      ],
-      "deity": "Hanuman",
-      "historical_significance": [
-        {
-          "story": "Birth of Hanuman",
-          "details": "Marks the birth of Hanuman, known for his devotion and strength."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Krishna Janmashtami",
-      "date": "2025-08-16",
-      "description": "Celebrates the birth of Lord Krishna, observed with fasting, devotional singing, and Dahi Handi.",
-      "celebrations": [
-        {
-          "name": "Midnight Puja",
-          "details": "Celebrated at midnight, the time of Krishna’s birth."
-        },
-        {
-          "name": "Dahi Handi",
-          "details": "Teams form human pyramids to break a pot of curd."
-        }
-      ],
-      "deity": "Krishna",
-      "historical_significance": [
-        {
-          "story": "Birth of Krishna",
-          "details": "Marks the birth of Lord Krishna, the eighth avatar of Vishnu."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Ganesh Chaturthi",
-      "date": "2025-08-27",
-      "description": "Festival celebrating the birth of Lord Ganesha, observed with grand installations of Ganesha idols and processions.",
-      "celebrations": [
-        {
-          "name": "Ganesh Sthapana",
-          "details": "Installation of Ganesha idols in homes and public places."
-        },
-        {
-          "name": "Visarjan",
-          "details": "Immersion of the idol in water bodies after the festival."
-        }
-      ],
-      "deity": "Ganesha",
-      "historical_significance": [
-        {
-          "story": "Creation of Ganesha",
-          "details": "Goddess Parvati created Ganesha from clay."
-        }
-      ],
-      "related_festivals": []
-    },
-    {
-      "festival_name": "Navaratri & Dussehra",
-      "date": "2025-10-01 to 2025-10-10",
-      "description": "Navaratri is a nine-day festival honoring Goddess Durga, culminating in Dussehra, which marks Lord Rama’s victory over Ravana.",
-      "celebrations": [
-        {
-          "name": "Durga Puja",
-          "details": "Idol worship, fasting, and cultural events."
-        },
-        {
-          "name": "Ramlila",
-          "details": "Dramatic enactments of Lord Rama’s life leading to Ravana’s defeat."
-        }
-      ],
-      "deity": "Durga, Rama",
-      "historical_significance": [
-        {
-          "story": "Victory of Durga over Mahishasura",
-          "details": "Durga slew the demon Mahishasura after nine nights of battle."
-        },
-        {
-          "story": "Victory of Rama over Ravana",
-          "details": "Marks the triumph of good over evil."
-        }
-      ],
-      "related_festivals": [ "Diwali" ]
-    },
-    {
-      "festival_name": "Diwali",
-      "date": "2025-10-21",
-      "description": "Diwali, the festival of lights, symbolizes the victory of light over darkness and good over evil.",
-      "celebrations": [
-        {
-          "name": "Lakshmi Puja",
-          "details": "Dedicated to Goddess Lakshmi for prosperity and well-being."
-        },
-        {
-          "name": "Govardhan Puja",
-          "details": "Honoring Lord Krishna lifting Govardhan Hill."
-        }
-      ],
-      "deity": "Lakshmi, Ganesha, Rama",
-      "historical_significance": [
-        {
-          "story": "Return of Lord Rama to Ayodhya",
-          "details": "Diwali marks Lord Rama’s return to Ayodhya after 14 years of exile."
-        }
-      ],
-      "related_festivals": [ "Bhai Dooj", "Govardhan Puja" ]
-    }
-  ]
-}
+[
+  {
+    "festival_name": "Makar Sankranti",
+    "date": "2025-01-14",
+    "description": "Marks the transition of the Sun into Capricorn, celebrated with kite flying, sesame sweets, and holy dips.",
+    "celebrations": [
+      {
+        "name": "Kite Flying",
+        "details": "People fly kites, symbolizing the ascent of the sun."
+      },
+      {
+        "name": "Holy Dip",
+        "details": "Pilgrims take a dip in holy rivers for purification."
+      }
+    ],
+    "deity": "Surya (Sun God)",
+    "historical_significance": [
+      {
+        "story": "Sun's transition to Capricorn",
+        "details": "Marks the beginning of longer days as per Hindu astronomy."
+      }
+    ],
+    "related_festivals": [ "Pongal", "Uttarayan", "Lohri" ]
+  },
+  {
+    "festival_name": "Vasant Panchami",
+    "date": "2025-02-02",
+    "description": "Celebration of Goddess Saraswati, the goddess of wisdom, learning, and arts.",
+    "celebrations": [
+      {
+        "name": "Saraswati Puja",
+        "details": "Students and artists worship Goddess Saraswati for knowledge and wisdom."
+      },
+      {
+        "name": "Wearing Yellow",
+        "details": "People wear yellow clothes, symbolizing prosperity and energy."
+      }
+    ],
+    "deity": "Saraswati",
+    "historical_significance": [
+      {
+        "story": "Goddess Saraswatiï¿½s Blessings",
+        "details": "Honors the goddess who grants wisdom and learning."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Maha Shivaratri",
+    "date": "2025-02-26",
+    "description": "Dedicated to Lord Shiva, observed with fasting, night-long prayers, and chanting.",
+    "celebrations": [
+      {
+        "name": "Shiva Abhishek",
+        "details": "Devotees perform milk, honey, and water offerings to Shiva Lingam."
+      },
+      {
+        "name": "Night Vigil",
+        "details": "Devotees stay awake all night chanting mantras."
+      }
+    ],
+    "deity": "Shiva",
+    "historical_significance": [
+      {
+        "story": "Shiva and Parvatiï¿½s union",
+        "details": "This day marks the divine wedding of Shiva and Parvati."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Holi",
+    "date": "2025-03-14",
+    "description": "Festival of colors celebrating the victory of good over evil, marking the arrival of spring.",
+    "celebrations": [
+      {
+        "name": "Color Throwing",
+        "details": "People throw colored powders and water at each other in celebration."
+      },
+      {
+        "name": "Bonfires",
+        "details": "Holika Dahan (bonfire) is lit to symbolize the victory over evil."
+      }
+    ],
+    "deity": "Krishna, Vishnu",
+    "historical_significance": [
+      {
+        "story": "Holika and Prahlad",
+        "details": "Symbolizes the burning of Holika and the protection of devotee Prahlad by Lord Vishnu."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Rama Navami",
+    "date": "2025-04-06",
+    "description": "Celebrates the birth of Lord Rama, observed with prayers and readings from the Ramayana.",
+    "celebrations": [
+      {
+        "name": "Ramayana Recitations",
+        "details": "Devotees read and listen to the Ramayana."
+      },
+      {
+        "name": "Temple Processions",
+        "details": "Idols of Lord Rama are taken on processions."
+      }
+    ],
+    "deity": "Rama",
+    "historical_significance": [
+      {
+        "story": "Birth of Lord Rama",
+        "details": "Marks the birth of Lord Rama, the seventh incarnation of Vishnu."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Hanuman Jayanti",
+    "date": "2025-04-14",
+    "description": "Commemorates the birth of Lord Hanuman, the ardent devotee of Lord Rama.",
+    "celebrations": [
+      {
+        "name": "Hanuman Chalisa Recitation",
+        "details": "Devotees chant Hanuman Chalisa for blessings."
+      },
+      {
+        "name": "Prayers and Offerings",
+        "details": "Special offerings of sweets and flowers at temples."
+      }
+    ],
+    "deity": "Hanuman",
+    "historical_significance": [
+      {
+        "story": "Birth of Hanuman",
+        "details": "Marks the birth of Hanuman, known for his devotion and strength."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Krishna Janmashtami",
+    "date": "2025-08-16",
+    "description": "Celebrates the birth of Lord Krishna, observed with fasting, devotional singing, and Dahi Handi.",
+    "celebrations": [
+      {
+        "name": "Midnight Puja",
+        "details": "Celebrated at midnight, the time of Krishnaï¿½s birth."
+      },
+      {
+        "name": "Dahi Handi",
+        "details": "Teams form human pyramids to break a pot of curd."
+      }
+    ],
+    "deity": "Krishna",
+    "historical_significance": [
+      {
+        "story": "Birth of Krishna",
+        "details": "Marks the birth of Lord Krishna, the eighth avatar of Vishnu."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Ganesh Chaturthi",
+    "date": "2025-08-27",
+    "description": "Festival celebrating the birth of Lord Ganesha, observed with grand installations of Ganesha idols and processions.",
+    "celebrations": [
+      {
+        "name": "Ganesh Sthapana",
+        "details": "Installation of Ganesha idols in homes and public places."
+      },
+      {
+        "name": "Visarjan",
+        "details": "Immersion of the idol in water bodies after the festival."
+      }
+    ],
+    "deity": "Ganesha",
+    "historical_significance": [
+      {
+        "story": "Creation of Ganesha",
+        "details": "Goddess Parvati created Ganesha from clay."
+      }
+    ],
+    "related_festivals": []
+  },
+  {
+    "festival_name": "Navaratri & Dussehra",
+    "date": "2025-10-01 to 2025-10-10",
+    "description": "Navaratri is a nine-day festival honoring Goddess Durga, culminating in Dussehra, which marks Lord Ramaï¿½s victory over Ravana.",
+    "celebrations": [
+      {
+        "name": "Durga Puja",
+        "details": "Idol worship, fasting, and cultural events."
+      },
+      {
+        "name": "Ramlila",
+        "details": "Dramatic enactments of Lord Ramaï¿½s life leading to Ravanaï¿½s defeat."
+      }
+    ],
+    "deity": "Durga, Rama",
+    "historical_significance": [
+      {
+        "story": "Victory of Durga over Mahishasura",
+        "details": "Durga slew the demon Mahishasura after nine nights of battle."
+      },
+      {
+        "story": "Victory of Rama over Ravana",
+        "details": "Marks the triumph of good over evil."
+      }
+    ],
+    "related_festivals": [ "Diwali" ]
+  },
+  {
+    "festival_name": "Diwali",
+    "date": "2025-10-21",
+    "description": "Diwali, the festival of lights, symbolizes the victory of light over darkness and good over evil.",
+    "celebrations": [
+      {
+        "name": "Lakshmi Puja",
+        "details": "Dedicated to Goddess Lakshmi for prosperity and well-being."
+      },
+      {
+        "name": "Govardhan Puja",
+        "details": "Honoring Lord Krishna lifting Govardhan Hill."
+      }
+    ],
+    "deity": "Lakshmi, Ganesha, Rama",
+    "historical_significance": [
+      {
+        "story": "Return of Lord Rama to Ayodhya",
+        "details": "Diwali marks Lord Ramaï¿½s return to Ayodhya after 14 years of exile."
+      }
+    ],
+    "related_festivals": [ "Bhai Dooj", "Govardhan Puja" ]
+  }
+]
