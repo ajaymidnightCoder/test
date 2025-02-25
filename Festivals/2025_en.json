@@ -2,8 +2,8 @@
   {
     "festival_name": "Makar Sankranti",
     "date": "2025-01-14",
-    "start_date": "2025-01-14T00:00:00",
-    "end_date": "2025-01-14T23:59:59",
+    "startdate": "2025-01-14T00:00:00",
+    "enddate": "2025-01-14T23:59:59",
     "description": "Marks the transition of the Sun into Capricorn, celebrated with kite flying, sesame sweets, and holy dips.",
     "celebrations": [
       {
@@ -27,8 +27,8 @@
   {
     "festival_name": "Vasant Panchami",
     "date": "2025-02-02",
-    "start_date": "2025-02-02T00:00:00",
-    "end_date": "2025-02-02T23:59:59",
+    "startdate": "2025-02-02T00:00:00",
+    "enddate": "2025-02-02T23:59:59",
     "description": "Celebration of Goddess Saraswati, the goddess of wisdom, learning, and arts.",
     "celebrations": [
       {
@@ -52,8 +52,8 @@
   {
     "festival_name": "Maha Shivaratri",
     "date": "2025-02-26",
-    "start_date": "2025-02-26T00:00:00",
-    "end_date": "2025-02-26T23:59:59",
+    "startdate": "2025-02-26T00:00:00",
+    "enddate": "2025-02-26T23:59:59",
     "description": "Dedicated to Lord Shiva, observed with fasting, night-long prayers, and chanting.",
     "celebrations": [
       {
@@ -77,8 +77,8 @@
   {
     "festival_name": "Holi",
     "date": "2025-03-14",
-    "start_date": "2025-03-14T00:00:00",
-    "end_date": "2025-03-14T23:59:59",
+    "startdate": "2025-03-14T00:00:00",
+    "enddate": "2025-03-14T23:59:59",
     "description": "Festival of colors celebrating the victory of good over evil, marking the arrival of spring.",
     "celebrations": [
       {
@@ -102,8 +102,8 @@
   {
     "festival_name": "Rama Navami",
     "date": "2025-04-06",
-    "start_date": "2025-04-06T00:00:00",
-    "end_date": "2025-04-06T00:00:00",
+    "startdate": "2025-04-06T00:00:00",
+    "enddate": "2025-04-06T00:00:00",
     "description": "Celebrates the birth of Lord Rama, observed with prayers and readings from the Ramayana.",
     "celebrations": [
       {
@@ -127,8 +127,8 @@
   {
     "festival_name": "Hanuman Jayanti",
     "date": "2025-04-14",
-    "start_date": "2025-04-14T00:00:00",
-    "end_date": "2025-04-14T00:00:00",
+    "startdate": "2025-04-14T00:00:00",
+    "enddate": "2025-04-14T00:00:00",
     "description": "Commemorates the birth of Lord Hanuman, the ardent devotee of Lord Rama.",
     "celebrations": [
       {
@@ -152,8 +152,8 @@
   {
     "festival_name": "Krishna Janmashtami",
     "date": "2025-08-16",
-    "start_date": "2025-10-01T00:00:00",
-    "end_date": "2025-10-10T00:00:00",
+    "startdate": "2025-10-01T00:00:00",
+    "enddate": "2025-10-10T00:00:00",
     "description": "Celebrates the birth of Lord Krishna, observed with fasting, devotional singing, and Dahi Handi.",
     "celebrations": [
       {
@@ -177,8 +177,8 @@
   {
     "festival_name": "Ganesh Chaturthi",
     "date": "2025-08-27",
-    "start_date": "2025-08-27T00:00:00",
-    "end_date": "2025-08-27T00:00:00",
+    "startdate": "2025-08-27T00:00:00",
+    "enddate": "2025-08-27T00:00:00",
     "description": "Festival celebrating the birth of Lord Ganesha, observed with grand installations of Ganesha idols and processions.",
     "celebrations": [
       {
@@ -202,8 +202,8 @@
   {
     "festival_name": "Navaratri & Dussehra",
     "date": "2025-10-01 to 2025-10-10",
-    "start_date": "2025-10-01T00:00:00",
-    "end_date": "2025-10-10T23:59:59",
+    "startdate": "2025-10-01T00:00:00",
+    "enddate": "2025-10-10T23:59:59",
     "description": "Navaratri is a nine-day festival honoring Goddess Durga, culminating in Dussehra, which marks Lord Rama�s victory over Ravana.",
     "celebrations": [
       {
@@ -231,8 +231,8 @@
   {
     "festival_name": "Diwali",
     "date": "2025-10-21",
-    "start_date": "2025-10-21T00:00:00",
-    "end_date": "2025-10-21T00:00:00",
+    "startdate": "2025-10-21T00:00:00",
+    "enddate": "2025-10-21T00:00:00",
     "description": "Diwali, the festival of lights, symbolizes the victory of light over darkness and good over evil.",
     "celebrations": [
       {
