@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Diwali",
+    "Category": "Festival",
+    "FromDate": "2024-11-01T00:00:00",
+    "ToDate": "2024-11-01T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Diwali",
+        "Description": "Festival of lights celebrating the return of Lord Rama to Ayodhya.",
+        "Dos": "Light diyas, perform Lakshmi puja",
+        "Donts": "Avoid alcohol and non-veg"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली",
+        "Description": "दीयों का त्योहार, श्रीराम के अयोध्या लौटने की खुशी में मनाया जाता है।",
+        "Dos": "दीये जलाएं, लक्ष्मी पूजन करें",
+        "Donts": "मांसाहार और शराब से बचें"
+      }
+    ]
+  },
+  {
+    "Name": "Amavasya",
+    "Category": "CelestialEvent",
+    "FromDate": "2024-10-17T00:00:00",
+    "ToDate": "2024-10-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Amavasya",
+        "Description": "New moon day, significant for Pitru Tarpan rituals.",
+        "Dos": "Offer water and prayers to ancestors",
+        "Donts": "Avoid starting new work"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "अमावस्या",
+        "Description": "पितरों के तर्पण के लिए अमावस्या महत्वपूर्ण होती है।",
+        "Dos": "पितरों को जल अर्पण करें",
+        "Donts": "नए कार्य की शुरुआत से बचें"
+      }
+    ]
+  }
+]
