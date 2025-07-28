@@ -2,7 +2,7 @@
   "resource_updates": [
     {
       "resource_type": "Festival",
-      "year": "2024",
+      "version": "2024",
       "date_modified": "2024-10-11T11:11:00Z",
       "isUpdateAvailable": true
     },
