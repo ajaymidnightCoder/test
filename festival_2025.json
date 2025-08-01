@@ -2,8 +2,8 @@
   {
     "Name": "Diwali",
     "Category": "Festival",
-    "FromDate": "2024-11-01T00:00:00",
-    "ToDate": "2024-11-01T23:59:59",
+    "FromDate": "2025-10-20T00:00:00",
+    "ToDate": "2025-10-20T23:59:59",
     "Localization": [
       {
         "LanguageCode": "en",
@@ -24,8 +24,8 @@
   {
     "Name": "Amavasya",
     "Category": "CelestialEvent",
-    "FromDate": "2024-10-17T00:00:00",
-    "ToDate": "2024-10-17T23:59:59",
+    "FromDate": "2025-10-17T00:00:00",
+    "ToDate": "2025-10-17T23:59:59",
     "Localization": [
       {
         "LanguageCode": "en",
@@ -44,3 +44,4 @@
     ]
   }
 ]
+
