@@ -3,14 +3,15 @@
     {
       "resource_type": "Festival",
       "version": "2025",
-      "date_modified": "2024-10-11T11:11:00Z",
+      "date_modified": "2025-08-02T11:11:00Z",
       "isUpdateAvailable": true
     },
     {
       "resource_type": "City",
       "version": "1.0.2",
-      "date_modified": "2024-07-22T08:30:00Z",
-      "isUpdateAvailable": true
+      "date_modified": "2025-08-02T08:30:00Z",
+      "isUpdateAvailable": false
     }
   ]
 }
+
