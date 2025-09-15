@@ -1,4 +1,71 @@
 [
+  
+  {
+    "Name": "Navaratri Test day 1",
+    "Category": "Festival",
+    "FromDate": "2025-09-17T00:00:00",
+    "ToDate": "2025-09-17T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Navaratri Test day 1",
+        "Description": "Festival of lights celebrating the return of Lord Rama to Ayodhya.",
+        "Dos": "Light diyas, perform Lakshmi puja",
+        "Donts": "Avoid alcohol and non-veg"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली day 1",
+        "Description": "दीयों का त्योहार, श्रीराम के अयोध्या लौटने की खुशी में मनाया जाता है।",
+        "Dos": "दीये जलाएं, लक्ष्मी पूजन करें",
+        "Donts": "मांसाहार और शराब से बचें"
+      }
+    ]
+  },
+  {
+    "Name": "Navaratri Test day 2",
+    "Category": "Festival",
+    "FromDate": "2025-09-18T00:00:00",
+    "ToDate": "2025-09-18T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Navaratri Test day 2",
+        "Description": "Festival of lights celebrating the return of Lord Rama to Ayodhya.",
+        "Dos": "Light diyas, perform Lakshmi puja",
+        "Donts": "Avoid alcohol and non-veg"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली day 2",
+        "Description": "दीयों का त्योहार, श्रीराम के अयोध्या लौटने की खुशी में मनाया जाता है।",
+        "Dos": "दीये जलाएं, लक्ष्मी पूजन करें",
+        "Donts": "मांसाहार और शराब से बचें"
+      }
+    ]
+  },
+  {
+    "Name": "Navaratri Test day 3",
+    "Category": "Festival",
+    "FromDate": "2025-09-19T00:00:00",
+    "ToDate": "2025-09-19T23:59:59",
+    "Localization": [
+      {
+        "LanguageCode": "en",
+        "Name": "Navaratri Test day 3",
+        "Description": "Festival of lights celebrating the return of Lord Rama to Ayodhya.",
+        "Dos": "Light diyas, perform Lakshmi puja",
+        "Donts": "Avoid alcohol and non-veg"
+      },
+      {
+        "LanguageCode": "hi",
+        "Name": "दीवाली day 3",
+        "Description": "दीयों का त्योहार, श्रीराम के अयोध्या लौटने की खुशी में मनाया जाता है।",
+        "Dos": "दीये जलाएं, लक्ष्मी पूजन करें",
+        "Donts": "मांसाहार और शराब से बचें"
+      }
+    ]
+  },
   {
     "Name": "Diwali",
     "Category": "Festival",
@@ -44,4 +111,5 @@
     ]
   }
 ]
+
 
